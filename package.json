@@ -48,6 +48,6 @@
     "imagemin-gifsicle": "^4.0.0",
     "imagemin-jpegtran": "^4.0.0",
     "imagemin-optipng": "^4.0.0",
-    "imagemin-svgo": "^4.0.0"
+    "imagemin-svgo": "git+https://github.com/Rabbit-Inc/imagemin-svgo#rb_01"
   }
 }
